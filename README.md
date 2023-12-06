@@ -1,4 +1,7 @@
 # Week 11/12 - Time series analysis and forecasts - 2
+
+EU
+----
 ## Description
 The Johns Hopkins Coronavirus Resource Center has been compiling an extensive dataset on [the evolution of the new coronavirus pandemic globally](https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases) since January 22, 2020. They documented the number of confirmed infections, death and recovery reporterted country by country along with hundreds of other information within each dataset.
 This data allows a wealth of analyses. In this weekly project, we are going to focus on the dataset of reported confirmed cases from January 22, 2020, to April 10, 2021, that you can [download here](https://raw.githubusercontent.com/mansont/datasets-tests/main/covid19_confirmed_global.csv).
@@ -19,7 +22,9 @@ Your mission this week is to address the following tasks and questions:
 ### Application
 10. Create a small application to present your work.
 
-----
+FR 
+-----
+
 
 ## Description
 Le Johns Hopkins Coronavirus Resource Center a compilé un vaste ensemble de données sur l'évolution de la nouvelle pandémie de coronavirus à l'échelle mondiale depuis le 22 janvier 2020. Ils ont documenté le nombre d'infections confirmées, de décès et de guérisons rapportés pays par pays, ainsi que des centaines d'autres informations dans chaque ensemble de données.
